@@ -27,7 +27,7 @@
 Клонируйте репозиторий:
 
 Bash
-git clone https://github.com/yourusername/Avito-Bot.git
+git clone https://github.com/fewvar/Avito-CRM-Bot
 Настройте конфигурацию:
 Создайте файл appsettings.json в корневой директории:
 
