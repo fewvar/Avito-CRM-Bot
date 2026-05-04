@@ -1,0 +1,11 @@
+appsettings.json
+
+*.db
+*.db-journal
+
+bin/
+obj/
+
+.vs/
+.idea/
+.vscode/
