@@ -1,16 +1,17 @@
 # CRM & AI Assistant for Apple Resellers
 Интеллектуальный Telegram-бот для автоматизации учета техники, мониторинга цен и генерации продающих описаний с помощью ИИ. Разработан как полноценная система управления для магазина электроники.
 
-🚀 Основные функции
-📦 Учет склада (SQLite): Добавление, просмотр и полная очистка базы данных товаров (модель, память, цена, состояние).
+Основные функции
 
-🤖 AI Copywriter (Groq/Llama 3.1): Автоматическая генерация привлекательных объявлений для Авито на основе характеристик устройства.
+ Учет склада (SQLite): Добавление, просмотр и полная очистка базы данных товаров (модель, память, цена, состояние).
 
-📊 Бизнес-аналитика: Расчет общей выручки по закупкам за последние 7 дней.
+ AI Copywriter (Groq/Llama 3.1): Автоматическая генерация привлекательных объявлений для Авито на основе характеристик устройства.
 
-📈 Мониторинг рынка: Поиск средних цен на устройства в разных городах через веб-парсер.
+ Бизнес-аналитика: Расчет общей выручки по закупкам за последние 7 дней.
 
-💵 Курсы валют: Оперативное получение актуальных курсов для оценки стоимости импорта.
+ Мониторинг рынка: Поиск средних цен на устройства в разных городах через веб-парсер.
+
+ Курсы валют: Оперативное получение актуальных курсов для оценки стоимости импорта.
 
 ## Технологический стек
 Язык: C# (.NET 8.0).
@@ -63,11 +64,11 @@ An intelligent Telegram bot for automating equipment accounting, price monitorin
 
 AI Copywriter (Groq/Llama 3.1): Automatic generation of attractive ads for Avito based on device characteristics.
 
-📊 Business analytics: Calculation of the total revenue from purchases over the last 7 days.
+ Business analytics: Calculation of the total revenue from purchases over the last 7 days.
 
-📈 Market monitoring: Search for average device prices in different cities through a web parser.
+ Market monitoring: Search for average device prices in different cities through a web parser.
 
-💵 Exchange rates: Prompt receipt of up-to-date exchange rates for estimating the cost of imports.
+Exchange rates: Prompt receipt of up-to-date exchange rates for estimating the cost of imports.
 
 ## Technology stack
 Language: C# (.NET 8.0).
